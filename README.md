@@ -2,7 +2,7 @@
 Angular2 step by step
 
 
-1. Follow this to install angular2-cli and get start with it:
+### 1. Follow this to install angular2-cli and get start with it:
 
 	i. http://codeportal.in/starting-with-angular2/
 
@@ -13,7 +13,7 @@ Angular2 step by step
 	iv. Your app will be running on **_http://localhost:4200_**
 
 
-2. Now create simple component
+### 2. Now create simple component
 
 	i. Follow http://codeportal.in/creating-component-angular2/
 
